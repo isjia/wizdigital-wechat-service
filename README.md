@@ -1,0 +1,1 @@
+# wizdigital-wechat-service
