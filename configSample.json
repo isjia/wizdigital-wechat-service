@@ -1,0 +1,6 @@
+{
+    "name": "your wechat nickname",
+    "appID" : "your app ID",
+    "appSecret" : "your app secret",
+    "token": "your app token"
+}
